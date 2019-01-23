@@ -1,0 +1,6 @@
+tmp1
+*.class
+*.dll
+*.zip
+*.jar
+.vscode
